@@ -1,4 +1,4 @@
-Install any dependecies before runnind.
+Install any dependecies before running.
 
 
 pip install smprotocol
